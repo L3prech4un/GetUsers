@@ -3,6 +3,7 @@ Simple utility script for checking the users on Linux and nicely formatting /etc
 
 ## Usage:
 Gets a list of all users based on usernames in /etc/passwd
+
     ./getusers.sh [OPTIONS]...
 
 ## Options:
