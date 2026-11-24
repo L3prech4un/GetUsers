@@ -24,4 +24,5 @@ Gets a list of all users based on usernames in /etc/passwd
 
 ## Authors:
 L3prech4un - https://github.com/L3prech4un
+
 **Currently a work in progress but I plan to expand more on this at a later date**
